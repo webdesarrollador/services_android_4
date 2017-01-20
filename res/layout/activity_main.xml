@@ -21,12 +21,12 @@
         android:layout_marginTop="154dp" />
 
     <TextView
-        android:text=""
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/hora"
         android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:textSize="22sp"/>
 
     <Button
         android:text="PARAR SERVICIO"
